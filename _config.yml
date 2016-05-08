@@ -1,0 +1,28 @@
+name: thegreatesttestsiteintheworld
+favicon: null
+layout_spectrum: 0.46773660741746426
+typography_spectrum: 0.3275512589607388
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7680255202576518
+  lightness: 0.5020695081911981
+  saturation: 0.35195039538666606
+  rhythmicContrast: 0.6879035281017423
+purpose: []
