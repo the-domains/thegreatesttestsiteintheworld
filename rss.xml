@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thegreatesttestsiteintheworld]]></title>
+        <description><![CDATA[thegreatesttestsiteintheworld]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 May 2016 05:56:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[我的学生们都会跟我学习英文。他们学习英文有的是为了出国，有的是为了提高雅思成绩，有的是出于兴趣或其他原因。总之，他们在学习英语方面都目标明确，态度认真。]]></title>
+            <description><![CDATA[<article><h1>我的学生们都会跟我学习英文。他们学习英文有的是为了出国，有的是为了提高雅思成绩，有的是出于兴趣或其他原因。总之，他们在学习英语方面都目标明确，态度认真。</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c01cd3f4-bda7-4a7b-8577-7e592f3601fb.jpg"></article>]]></description>
+            <link>undefineda063baa0-d21d-4a71-a5c1-3825643a7368/index.html</link>
+            <guid isPermaLink="false">a063baa0-d21d-4a71-a5c1-3825643a7368</guid>
+            <pubDate>Sun, 08 May 2016 05:55:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
